@@ -1,6 +1,8 @@
 # ThemeChangerTime
 (change theme script) light: 8:00-20:00 dark: 20:00-8:00 (you can change time if you want)
 
+![Preview](lightThemeMac.png)
+
 # How to install?
 `download themeChangeTimeMacOs.py (MacOs version) or themeChangeTimeWin.py (Windows version)`
 
