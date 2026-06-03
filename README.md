@@ -10,9 +10,9 @@ Then
 # How to uninstall?
 
 
-Bash (Windows)
+## Bash (Windows)
 `pkill -f themeChangeTimeWin.py`
 
-Zsh (MacOs, Linux)
+## Zsh (MacOs, Linux)
 `pkill -f themeChangeTimeMacOs.py`
 `pkill -f themeChangeTimeLinux.py`
