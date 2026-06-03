@@ -6,7 +6,7 @@ light: 8:00-20:00 dark: 20:00-8:00 (you can change time if you want)
 # How to install?
 `download themeChangeTimeMacOs.py (MacOs version) or themeChangeTimeWin.py (Windows version) or themeChangeTimeLinux.py (Linux version)`
 
-Open your terminal and enter the path to your script file, for example, `cd path to your script file/`
+Open your terminal and enter the path to your script file, for example, `cd path to your script file/` press Enter button 
 Then write
 
 ### Linux
