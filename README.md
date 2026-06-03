@@ -14,7 +14,7 @@ Then write
 ### MacOs
 * `nohup python3 path to your script file/themeChangeTimeMacOs.py & disown`
 
-# How to uninstall?
+# How to stop script?
 
 ## Bash (Windows)
 * `pkill -f themeChangeTimeWin.py`
