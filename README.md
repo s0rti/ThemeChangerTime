@@ -11,7 +11,7 @@ Then
 
 
 ## Bash (Windows)
-`pkill -f themeChangeTimeWin.py`
+* `pkill -f themeChangeTimeWin.py`
 
 ## Zsh (MacOs, Linux)
 * `pkill -f themeChangeTimeMacOs.py`
