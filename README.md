@@ -5,10 +5,16 @@
 `download themeChangeTimeMacOs.py (MacOs version) or themeChangeTimeWin.py (Windows version)`
 
 Open your terminal and enter the path to your script file, for example, `cd path to your script file/`
-Then 
+Then write
+
+### Linux
+* `nohup python3 path to your script file/themeChangeTimeLinux.py & disown`
+### Windows
+* `nohup python3 path to your script file/themeChangeTimeWin.py & disown`
+### MacOs
+* `nohup python3 path to your script file/themeChangeTimeMacOs.py & disown`
 
 # How to uninstall?
-
 
 ## Bash (Windows)
 * `pkill -f themeChangeTimeWin.py`
