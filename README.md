@@ -4,7 +4,7 @@
 ![Preview](lightThemeMac.png)
 
 # How to install?
-`download themeChangeTimeMacOs.py (MacOs version) or themeChangeTimeWin.py (Windows version)`
+`download themeChangeTimeMacOs.py (MacOs version) or themeChangeTimeWin.py (Windows version) or themeChangeTimeLinux.py (Linux version)`
 
 Open your terminal and enter the path to your script file, for example, `cd path to your script file/`
 Then write
