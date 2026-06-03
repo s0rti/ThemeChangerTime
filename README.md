@@ -15,4 +15,4 @@ Then
 
 ## Zsh (MacOs, Linux)
 `pkill -f themeChangeTimeMacOs.py`
-`pkill -f themeChangeTimeLinux.py`
+* `pkill -f themeChangeTimeLinux.py`
