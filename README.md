@@ -10,11 +10,11 @@ Open your terminal and enter the path to your script file, for example, `cd path
 Then write:
 
 ### Linux
-* `nohup python3 path to your script file/themeChangeTimeLinux.py & disown`
+* `nohup python3 path to your script file/themeChangeTimeLinux.py`
 ### Windows
-* `nohup python3 path to your script file/themeChangeTimeWin.py & disown`
+* `nohup python3 path to your script file/themeChangeTimeWin.py`
 ### MacOs
-* `nohup python3 path to your script file/themeChangeTimeMacOs.py & disown`
+* `nohup python3 path to your script file/themeChangeTimeMacOs.py`
 
 # How to stop script?
 
